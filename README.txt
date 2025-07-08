@@ -1,6 +1,8 @@
 # extremes-OAW-GCBmanuscript-code
 This repository contains analysis code accompanying the manuscript, "Potential for regional resilience to ocean warming and acidification extremes: Projected vulnerability under contrasting pathways and thresholds" by Elise M. B. Olson, Jasmin G. John, John Dunne, Charles Stock, and Elizabeth J. Drenkard. 
 
+Code DOI: https://doi.org/10.5281/zenodo.15832935
+
 The figures in the manusccript were created with the Jupyter Notebooks (*.ipynb) in the "notebooks" subdirectory.
 Figure...File Name...............................................Notebook
 1........global_extmes_seas_All_newcm.png........................001r_map_EventDays-Figs-Simple-Combined-newCmap.ipynb
